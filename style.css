@@ -9,7 +9,7 @@ body{
     font-family: 'Noto Sans JP', sans-serif;
     overflow-x: hidden;
     letter-spacing:0.05em;
-    background-image: url(images/lily.jpg);
+    background-image: url(https://rawcdn.githack.com/Xi3Epi5/portfolio-faster/374650841ac5d6836fb04a4f8f8a67a513f86b18/images/lily.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -61,7 +61,7 @@ body{
 }
 
 #portrait{
-    background-image: url(images/portrait-right.png);
+    background-image: url(https://rawcdn.githack.com/Xi3Epi5/portfolio-faster/374650841ac5d6836fb04a4f8f8a67a513f86b18/images/portrait-right.png);
     background-size: 115%;
     background-position: center;
     width: 100%;
